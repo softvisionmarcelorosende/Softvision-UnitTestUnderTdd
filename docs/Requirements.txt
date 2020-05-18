@@ -1,0 +1,7 @@
+Scenario: Implement a method that returns the quotient between a dividend and a divisor from a user input
+with data type string
+
+Given: A dividend (string)
+And: A divisor (string)
+When: {dividend} divided {divisor}
+Then: should return the quotient (number)
